@@ -1,0 +1,5 @@
+# 33 - Leia o tamanho do lado de um quadrado e imprima como resultado a sua área
+
+l = float(input('Informe o tamanho de um dos lados do quadrado: '))
+a = l * l
+print(f'O valor da área do quadrado é: {a}')
